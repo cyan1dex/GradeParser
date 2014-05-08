@@ -1,0 +1,135 @@
+French1a,00501
+French1b,00503
+French2,00504
+French3,00506
+French3h,00517
+French4,00529
+French5Honors,00518
+French5,00519
+FrenchAP,00530
+FrenchIntensive,00521
+Spanish1a,00086
+Spanish1b,00500
+Spanish2,00502
+Spanish3,00510
+Spanish4,00511
+Spanish4h,00512
+Spanish5,00513
+Spanish5H,00523
+Spanish6Honors,00620
+Spanish6,00524
+SpanishLang,00514
+SpanishLit,00515
+SpanishIntensive,00508
+ChineseIntensive,00528
+Chinese1A,00527
+Chinese1B,00161
+Chinese2,00165
+Chinese3Honors,00173
+Chinese3,00160
+Chinese4AP,00059
+Chinese4,00133
+Chinese5Honors,00134
+Chinese V/VH,00211
+Chinese5,99990
+CompSciAP,00206
+Graphics,00080
+Theater1,00177
+AdvancedActing,00115
+Orchestra,00119
+StageCraft,00082
+StudioArtFirstYear,00164
+StudioArtAdvanced2,00168
+StudioArtAdvanced 3,00170
+StudioArtAdvanced 4,00455
+StudioArtAdvanced 5,00172
+CeramicsFirstYear,00108
+CeramicsAdvanced2,00106
+CeramicsAdvanced2,99955
+CeramicsAdvanced2,99912
+CeramicsAdvanced 3,00107
+CeramicsAdvanced 3,99916
+Ceramics 3A (H),00456
+Ceramics 3A (H),03444
+CeramicsAdvanced 4,03445
+CeramicsAdvanced 4,99917
+CeramicsAdvanced 5,00110
+CeramicsAdvanced 6,00085
+PhotographyFirstYear,00013
+PhotographyAdvanced2,00018
+PhotographyAdvanced2,99927
+PhotographyAdvanced3,00021
+MusicFull,00116
+MusicalTheater,00175
+MusicAP,00938
+Chorus,00155
+MarineBio,00705
+Trig,00633
+Statistics,00058
+English9th,00305
+English10th,00302
+English11th,00332
+English11thAP,00333
+EnglishSelf,00181
+English12APSelf,00182
+EnglishEthics,00183
+EnglishAngelino,00184
+Algebra2B,00621
+Pcb2Honors,00054
+SeniorCapstone,00096
+English7th,00303
+English8th,00304
+Forensics,00127
+EnvironAP,00057
+History7th,00405
+History8th,00406
+History9th,00407
+History10th,00412
+HistoryMiddleEastern,00422
+HistoryAfrican,00417
+HistoryAsian,00423
+EnglishAmerican,00131
+HistoryAmerican,00130
+LifeSci,00710
+JuniorCapstone,00079
+History_11th,00410
+History11AP,00411
+HistoryArtHist,00408
+HistoryGov,00084
+HistoryEcon,00126
+PCB1,00068
+Pcb2,00050
+Pcb3,00052
+Pcb3H,00053
+PhysicsAP,00703
+PreAlgA,00610
+PreAlgB,00612
+Precalc,00605
+PrecalcH,00614
+Geometry,00609
+GeometryH,00619
+Alg1H,00632
+Algebra1,00602
+Algebra1A,00623
+Algebra1b,00608
+Algebra2A,00618
+Algebra2H,00604
+BioAP,00701
+BrainBehavior,00132
+CalcAB,00606
+CalcBC,00607
+CalcFund,00613
+ChemAP,00707
+Post-AP math, 99989
+Organic Chemistry (sem 1),00215
+democracy,00212
+adv comp sci,00210
+multivar calc,00214
+Chinese, 99990
+MSON,99999
+CeramicsAdvanced,99998
+PhotographyAdvanced,99997
+StudioArtAdvanced,99996
+Kindness Club,01030
+Head Start-Los Colores,00190
+Stanford Online HS: Linear Alg,00140

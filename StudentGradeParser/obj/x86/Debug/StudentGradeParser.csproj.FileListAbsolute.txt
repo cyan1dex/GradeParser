@@ -1,0 +1,15 @@
+c:\users\backtrack\documents\visual studio 2010\Projects\StudentGradeParser\StudentGradeParser\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\backtrack\documents\visual studio 2010\Projects\StudentGradeParser\StudentGradeParser\bin\Debug\StudentGradeParser.exe
+c:\users\backtrack\documents\visual studio 2010\Projects\StudentGradeParser\StudentGradeParser\bin\Debug\StudentGradeParser.pdb
+c:\users\backtrack\documents\visual studio 2010\Projects\StudentGradeParser\StudentGradeParser\obj\x86\Debug\StudentGradeParser.exe
+c:\users\backtrack\documents\visual studio 2010\Projects\StudentGradeParser\StudentGradeParser\obj\x86\Debug\StudentGradeParser.pdb
+C:\Users\flaVius\Desktop\StudentGradeParser\StudentGradeParser\obj\x86\Debug\StudentGradeParser.exe
+C:\Users\flaVius\Desktop\StudentGradeParser\StudentGradeParser\obj\x86\Debug\StudentGradeParser.pdb
+C:\Users\flaVius\Desktop\StudentGradeParser\StudentGradeParser\bin\Debug\StudentGradeParser.exe
+C:\Users\flaVius\Desktop\StudentGradeParser\StudentGradeParser\bin\Debug\StudentGradeParser.pdb
+C:\Users\flaVius\Desktop\StudentGradeParser\StudentGradeParser\obj\x86\Debug\StudentGradeParser.csprojResolveAssemblyReference.cache
+C:\Users\backtrack\Desktop\StudentGradeParser\StudentGradeParser\obj\x86\Debug\StudentGradeParser.exe
+C:\Users\backtrack\Desktop\StudentGradeParser\StudentGradeParser\obj\x86\Debug\StudentGradeParser.pdb
+C:\Users\backtrack\Desktop\StudentGradeParser\StudentGradeParser\bin\Debug\StudentGradeParser.exe
+C:\Users\backtrack\Desktop\StudentGradeParser\StudentGradeParser\bin\Debug\StudentGradeParser.pdb
+C:\Users\backtrack\Desktop\StudentGradeParser\StudentGradeParser\obj\x86\Debug\ResolveAssemblyReference.cache

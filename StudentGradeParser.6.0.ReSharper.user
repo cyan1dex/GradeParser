@@ -1,0 +1,459 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:IdsAndCourses.txt" caret="0" fromTop="0" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:report.txt" caret="183" fromTop="2" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:CourseIDs.txt" caret="1090" fromTop="45" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:GradeConverter.cs" caret="1150" fromTop="37" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:spring.csv" caret="106434" fromTop="26" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:IPlaceable.cs" caret="181" fromTop="8" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:otherRecs.txt" caret="8193" fromTop="24" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/d:Classes/f:SectionID.cs" caret="12073" fromTop="16" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:ExcelWriter.cs" caret="230" fromTop="11" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:MSUS_Students.txt" caret="608" fromTop="12" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/d:Classes/f:ClassData.cs" caret="0" fromTop="0" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Placements.cs" caret="619" fromTop="9" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/d:Classes/f:Class_.cs" caret="0" fromTop="0" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:report.csv" caret="0" fromTop="0" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:SQLwriter.cs" caret="0" fromTop="0" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:StudentReader.cs" caret="192" fromTop="9" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/d:Classes/f:Courses.cs" caret="35708" fromTop="40" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Student.cs" caret="4345" fromTop="0" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:registration.csv" caret="1400" fromTop="12" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/d:Classes/f:Math.cs" caret="102" fromTop="5" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Program.cs" caret="1270" fromTop="28" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Registration.cs" caret="14445" fromTop="14" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Registration.cs" caret="8991" fromTop="33" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Registration.cs" caret="2100" fromTop="33" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Registration.cs" caret="6745" fromTop="30" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Registration.cs" caret="16368" fromTop="40" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/d:Classes/f:Courses.cs" caret="35473" fromTop="34" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/d:Classes/f:Courses.cs" caret="35559" fromTop="36" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/d:Classes/f:Courses.cs" caret="35708" fromTop="40" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Registration.cs" caret="14388" fromTop="16" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Registration.cs" caret="14166" fromTop="12" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Registration.cs" caret="15106" fromTop="32" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Registration.cs" caret="16176" fromTop="37" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Registration.cs" caret="16028" fromTop="33" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Registration.cs" caret="2487" fromTop="40" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Registration.cs" caret="1214" fromTop="13" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Registration.cs" caret="15348" fromTop="19" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Student.cs" caret="14908" fromTop="33" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Student.cs" caret="15497" fromTop="33" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Registration.cs" caret="13765" fromTop="37" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Registration.cs" caret="13765" fromTop="30" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Registration.cs" caret="13765" fromTop="22" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Registration.cs" caret="4721" fromTop="50" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Registration.cs" caret="4045" fromTop="30" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Registration.cs" caret="4444" fromTop="38" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Registration.cs" caret="3379" fromTop="9" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Program.cs" caret="1124" fromTop="25" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Program.cs" caret="1088" fromTop="24" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Registration.cs" caret="6326" fromTop="26" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Program.cs" caret="530" fromTop="16" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Registration.cs" caret="15785" fromTop="46" />
+      <File id="5062E3E4-DCB2-4821-8778-FEC7B0BBCC5F/f:Registration.cs" caret="14445" fromTop="14" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="public" priority="828" />
+      <Item value="ColorFormat`0" priority="95" />
+      <Item value="new" priority="639" />
+      <Item value="System" priority="31" />
+      <Item value="Color" priority="28" />
+      <Item value="Color`0" priority="31" />
+      <Item value="enum" priority="92" />
+      <Item value="throw" priority="189" />
+      <Item value="int" priority="1628" />
+      <Item value="ExcelWriter`0" priority="63" />
+      <Item value="StudentReader`0" priority="31" />
+      <Item value="grade" priority="607" />
+      <Item value="gradeLevel" priority="159" />
+      <Item value="List" priority="159" />
+      <Item value="List&lt;Student&gt;" priority="86" />
+      <Item value="foreach" priority="511" />
+      <Item value="KeyValuePair" priority="127" />
+      <Item value="if" priority="2271" />
+      <Item value="student" priority="1280" />
+      <Item value="for" priority="223" />
+      <Item value="row" priority="255" />
+      <Item value="students" priority="447" />
+      <Item value="AppEvents_WorkbookRowsetCompleteEventHandler`0" priority="31" />
+      <Item value="r" priority="63" />
+      <Item value="c" priority="575" />
+      <Item value="else" priority="383" />
+      <Item value="#endregion" priority="255" />
+      <Item value="Math`0" priority="63" />
+      <Item value="ForeignLang`0" priority="123" />
+      <Item value="String`0" priority="767" />
+      <Item value="IPlaceable`0" priority="31" />
+      <Item value="class_" priority="95" />
+      <Item value="return" priority="799" />
+      <Item value="CourseHandler`0" priority="661" />
+      <Item value="class" priority="30" />
+      <Item value="static" priority="575" />
+      <Item value="Exception" priority="116" />
+      <Item value="classes" priority="95" />
+      <Item value="GradeConverter`0" priority="63" />
+      <Item value="switch" priority="127" />
+      <Item value="case" priority="415" />
+      <Item value="Chinese1A" priority="33" />
+      <Item value="Algebra2H" priority="16" />
+      <Item value="gradeSubtraction" priority="63" />
+      <Item value="default" priority="95" />
+      <Item value="Dictionary" priority="159" />
+      <Item value="SchedulingFor8th" priority="159" />
+      <Item value="Dictionary&lt;COURSENAME,int&gt;" priority="28" />
+      <Item value="courseCounts" priority="95" />
+      <Item value="mathPlacement" priority="31" />
+      <Item value="xlWorkBook" priority="31" />
+      <Item value="ital" priority="31" />
+      <Item value="Grade" priority="127" />
+      <Item value="string" priority="444" />
+      <Item value="void" priority="351" />
+      <Item value="break" priority="223" />
+      <Item value="listItems" priority="31" />
+      <Item value="sheet" priority="255" />
+      <Item value="xlDropDown" priority="31" />
+      <Item value="Type`0" priority="159" />
+      <Item value="var" priority="63" />
+      <Item value="musicItems" priority="31" />
+      <Item value="range" priority="31" />
+      <Item value="true" priority="63" />
+      <Item value="Array`0" priority="31" />
+      <Item value="scienceCol" priority="31" />
+      <Item value="historyCol" priority="31" />
+      <Item value="englishCol" priority="31" />
+      <Item value="fallCol" priority="63" />
+      <Item value="CreateList`0" priority="63" />
+      <Item value="winterCol" priority="31" />
+      <Item value="springCol" priority="31" />
+      <Item value="msonCol" priority="31" />
+      <Item value="xlWorkSheet" priority="95" />
+      <Item value="SectionID" priority="63" />
+      <Item value="continue" priority="159" />
+      <Item value="LastName" priority="31" />
+      <Item value="ID" priority="31" />
+      <Item value="line" priority="63" />
+      <Item value="gradeSubtractionFall" priority="32" />
+      <Item value="gradeSubtractionSpring" priority="31" />
+      <Item value="bool" priority="95" />
+      <Item value="year" priority="31" />
+      <Item value="Dictionary&lt;int,string[]&gt;" priority="28" />
+      <Item value="placements" priority="255" />
+      <Item value="reader" priority="95" />
+      <Item value="vals" priority="575" />
+      <Item value="Int32`0" priority="159" />
+      <Item value="SetCourse`0" priority="31" />
+      <Item value="id" priority="63" />
+      <Item value="Placements`0" priority="31" />
+      <Item value="hist" priority="63" />
+      <Item value="sci" priority="63" />
+      <Item value="eng" priority="31" />
+      <Item value="SQLwriter`0" priority="31" />
+      <Item value="registration" priority="127" />
+      <Item value="Student`0" priority="190" />
+      <Item value="Student" priority="57" />
+      <Item value="Dictionary&lt;int,Student&gt;" priority="57" />
+      <Item value="unique" priority="127" />
+      <Item value="Registration`0" priority="351" />
+      <Item value="in" priority="319" />
+      <Item value="s" priority="287" />
+      <Item value="i" priority="63" />
+      <Item value="Length" priority="53" />
+      <Item value="stream" priority="31" />
+      <Item value="Science" priority="119" />
+      <Item value="ForeignLang" priority="59" />
+      <Item value="History" priority="59" />
+      <Item value="unknown" priority="31" />
+      <Item value="Elective" priority="59" />
+      <Item value="Math" priority="59" />
+      <Item value="pos" priority="159" />
+      <Item value="Classes" priority="107" />
+      <Item value="Class_`0" priority="181" />
+      <Item value="Dictionary&lt;Class_,int&gt;" priority="28" />
+      <Item value="courseData" priority="159" />
+      <Item value="entry" priority="351" />
+      <Item value="file" priority="319" />
+      <Item value="course" priority="159" />
+      <Item value="science8th" priority="31" />
+      <Item value="englisth10th" priority="31" />
+      <Item value="english11th" priority="31" />
+      <Item value="history10th" priority="31" />
+      <Item value="history11th" priority="31" />
+      <Item value="science" priority="31" />
+      <Item value="englisth" priority="31" />
+      <Item value="history" priority="31" />
+      <Item value="info" priority="223" />
+      <Item value="count" priority="31" />
+      <Item value="m" priority="31" />
+      <Item value="g" priority="31" />
+      <Item value="char" priority="31" />
+      <Item value="English10th" priority="16" />
+      <Item value="date" priority="63" />
+      <Item value="GetStudentInfo`0" priority="63" />
+      <Item value="unregistered" priority="63" />
+      <Item value="File`0" priority="127" />
+      <Item value="total" priority="31" />
+      <Item value="_AppDomain`0" priority="31" />
+      <Item value="Mathamatics`0" priority="176" />
+      <Item value="is" priority="31" />
+      <Item value="typeof" priority="127" />
+      <Item value="History`0" priority="55" />
+      <Item value="WorldReligions" priority="16" />
+      <Item value="Dictionary&lt;COURSENAME,List&lt;Student&gt;&gt;" priority="28" />
+      <Item value="currentPlacements" priority="31" />
+      <Item value="courses" priority="95" />
+      <Item value="studentPlacements" priority="159" />
+      <Item value="null" priority="31" />
+      <Item value="try" priority="31" />
+      <Item value="catch" priority="31" />
+      <Item value="KeyNotFoundException`0" priority="31" />
+      <Item value="exception" priority="32" />
+      <Item value="List&lt;int&gt;" priority="28" />
+      <Item value="notShceduled" priority="31" />
+      <Item value="month" priority="31" />
+      <Item value="Elective`0" priority="27" />
+      <Item value="English`0" priority="91" />
+      <Item value="Science`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="Red" priority="54" />
+      <Item value="LimeGreen" priority="27" />
+      <Item value="Yellow" priority="27" />
+      <Item value="Gray" priority="27" />
+      <Item value="LightGray" priority="27" />
+      <Item value="Purple" priority="27" />
+      <Item value="Blue" priority="27" />
+      <Item value="Orange" priority="27" />
+      <Item value="Orchid" priority="26" />
+      <Item value="SpringGreen" priority="26" />
+      <Item value="DeepPink" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Value" priority="675" />
+      <Item value="Key" priority="404" />
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StudentGradeParser.Student">
+      <Item value="Grade" priority="377" />
+      <Item value="classes" priority="189" />
+      <Item value="FirstName" priority="242" />
+      <Item value="LastName" priority="243" />
+      <Item value="ID" priority="296" />
+      <Item value="GetMathPlacement`0" priority="53" />
+      <Item value="GetForeignLangPlacement`0" priority="26" />
+      <Item value="mathPlacement" priority="81" />
+      <Item value="langPlacement" priority="108" />
+      <Item value="duplicate" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="135" />
+      <Item value="Count" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@StudentGradeParser.ExcelWriter">
+      <Item value="WritePeriodGrades`0" priority="26" />
+      <Item value="PrintScheduleToExcel`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SchedulingFor8th.Classes.Class_">
+      <Item value="ToString`0" priority="53" />
+      <Item value="grade" priority="80" />
+      <Item value="course" priority="350" />
+      <Item value="gradeSpring" priority="26" />
+      <Item value="GetCourse`0" priority="107" />
+      <Item value="GetType`0" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SchedulingFor8th.CourseHandler+COURSENAME">
+      <Item value="ToString`0" priority="323" />
+      <Item value="GetType`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SchedulingFor8th.CourseHandler">
+      <Item value="COURSENAME`0" priority="377" />
+      <Item value="MathCourses" priority="26" />
+      <Item value="ElectiveChoices" priority="80" />
+      <Item value="FallSports" priority="26" />
+      <Item value="WinterSports" priority="27" />
+      <Item value="SpringSports" priority="27" />
+      <Item value="MSON" priority="26" />
+      <Item value="GetLanguage`0" priority="26" />
+      <Item value="GetScience`0" priority="26" />
+      <Item value="GetHistory`0" priority="26" />
+      <Item value="GetElective`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SchedulingFor8th.CourseHandler+COURSENAME">
+      <Item value="None" priority="359" />
+      <Item value="Algebra1" priority="165" />
+      <Item value="Algebra2A" priority="82" />
+      <Item value="Alg1H" priority="165" />
+      <Item value="GeometryH" priority="83" />
+      <Item value="Geometry" priority="195" />
+      <Item value="Precalc" priority="195" />
+      <Item value="PrecalcH" priority="55" />
+      <Item value="Algebra1A" priority="109" />
+      <Item value="Trig" priority="139" />
+      <Item value="Algebra2B" priority="55" />
+      <Item value="CalcAB" priority="195" />
+      <Item value="CalcBC" priority="55" />
+      <Item value="StanfordLinearAlg" priority="27" />
+      <Item value="PreAlgA" priority="54" />
+      <Item value="CalcFund" priority="194" />
+      <Item value="Finite" priority="83" />
+      <Item value="Statistics" priority="27" />
+      <Item value="PreAlgB" priority="27" />
+      <Item value="Algebra1b" priority="54" />
+      <Item value="Chinese1B" priority="55" />
+      <Item value="Chinese1A" priority="27" />
+      <Item value="ChineseAP" priority="83" />
+      <Item value="Chinese5H" priority="27" />
+      <Item value="French1b" priority="111" />
+      <Item value="French1a" priority="27" />
+      <Item value="French2" priority="111" />
+      <Item value="French3h" priority="55" />
+      <Item value="French3" priority="83" />
+      <Item value="French4" priority="111" />
+      <Item value="FrenchAP" priority="83" />
+      <Item value="French4H" priority="54" />
+      <Item value="French5H" priority="27" />
+      <Item value="French5" priority="27" />
+      <Item value="Spanish1a" priority="55" />
+      <Item value="Spanish1b" priority="111" />
+      <Item value="Spanish3" priority="138" />
+      <Item value="Spanish4" priority="111" />
+      <Item value="Spanish3H" priority="27" />
+      <Item value="Spanish4h" priority="83" />
+      <Item value="Spanish5" priority="139" />
+      <Item value="Spanish5H" priority="55" />
+      <Item value="Spanish6H" priority="55" />
+      <Item value="Spanish6" priority="55" />
+      <Item value="SpanishLit" priority="138" />
+      <Item value="SpanishIntensive" priority="27" />
+      <Item value="ChineseIntensive" priority="55" />
+      <Item value="Chinese3" priority="27" />
+      <Item value="FrenchIntensive" priority="55" />
+      <Item value="ChineseVorVH" priority="27" />
+      <Item value="SpanishLang" priority="27" />
+      <Item value="PCB1" priority="26" />
+      <Item value="History8th" priority="26" />
+      <Item value="English8th" priority="26" />
+      <Item value="Pcb2H" priority="54" />
+      <Item value="Chinese3H" priority="26" />
+      <Item value="Spanish2" priority="27" />
+      <Item value="Pcb3H" priority="27" />
+      <Item value="History11th" priority="27" />
+      <Item value="WorldReligions" priority="27" />
+      <Item value="Capstone" priority="27" />
+      <Item value="History11AP" priority="27" />
+      <Item value="StageCraft" priority="27" />
+      <Item value="MusicAP" priority="27" />
+      <Item value="Robotics" priority="27" />
+      <Item value="English11th" priority="27" />
+      <Item value="English11thAP" priority="27" />
+      <Item value="Pcb2" priority="27" />
+      <Item value="MSON" priority="27" />
+      <Item value="Theater1" priority="27" />
+      <Item value="PhysicsAP" priority="26" />
+      <Item value="CompSciAP" priority="27" />
+      <Item value="Graphics" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="26" />
+      <Item value="Join`0" priority="26" />
+      <Item value="Format`0" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@StudentGradeParser.GradeConverter">
+      <Item value="GetInverseGrade`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="ContainsKey`0" priority="270" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Excel.Workbook">
+      <Item value="ActiveChart" priority="26" />
+      <Item value="Save`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToString`0" priority="26" />
+      <Item value="Split`0" priority="135" />
+      <Item value="Trim`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Excel.DropDown">
+      <Item value="OnAction" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Excel.Range">
+      <Item value="Validation" priority="53" />
+      <Item value="DataSeries`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Excel.Validation">
+      <Item value="Delete`0" priority="26" />
+      <Item value="InCellDropdown" priority="53" />
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Type">
+      <Item value="GetTypeHandle`0" priority="26" />
+      <Item value="Missing" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Office.Interop.Excel.XlDVAlertStyle">
+      <Item value="xlValidAlertStop" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Office.Interop.Excel.XlFileFormat">
+      <Item value="xlWorkbookDefault" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Array">
+      <Item value="Sort`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Excel.Worksheet">
+      <Item value="Cells" priority="107" />
+      <Item value="Name" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Excel.Window">
+      <Item value="SplitRow" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="ReadLine`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@StudentGradeParser.Placements">
+      <Item value="GetPlacements`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@StudentGradeParser.Registration">
+      <Item value="GetRegistration`0" priority="26" />
+      <Item value="GetFinalRegistration`0" priority="26" />
+      <Item value="GetCourseNumbers`0" priority="26" />
+      <Item value="GetStudentYears`0" priority="26" />
+      <Item value="GetDuplicates`0" priority="26" />
+      <Item value="WriteEnglishClasses`0" priority="26" />
+      <Item value="UnregisteredStudents`0" priority="53" />
+      <Item value="WriteClass`0" priority="53" />
+      <Item value="WriteMissingStudentInfo`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamWriter">
+      <Item value="WriteLine`0" priority="243" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@StudentGradeParser.StudentReader">
+      <Item value="GetStudentReportList`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
